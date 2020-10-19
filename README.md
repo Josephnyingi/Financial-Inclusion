@@ -11,10 +11,10 @@ Access to bank accounts enables households to save and facilitate payments while
 
 In this project will come up with a model which can predict the individuals who are likely to have or access to commercial bank accounts that will help provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania, and Uganda, while providing insights into some of the key demographic factors that might drive individuals’ financial outcomes.
 # Technologies used
-Jupyter notebook
-Pandas library
-Numpy library
-Matplotlib library
-Seaborn library
+## Jupyter notebook
+## Pandas library
+## Numpy library
+## Matplotlib library
+## Seaborn library
 # License
 MIT License Copyright (c) 2020 Joseph Nyingi
